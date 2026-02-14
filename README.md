@@ -1,12 +1,10 @@
+<<<<<<< HEAD
 # Fruit Ripeness Prediction
 
 ## Overview
 
 This project aims to develop a machine learning model to predict the ripeness of various fruits and vegetables using image data. The dataset contains images categorized as either healthy or rotten for 14 different types of fruits and vegetables.
 
-## Demo
-
-[Watch the demo video](Media/demo.mov)
 
 
 ## Dataset
@@ -51,9 +49,6 @@ weighted avg       0.90      0.90      0.90      2930
 
 ## How to Run the Project
  ```
- Clone the repository
- git clone https://github.com/JustJin28/Fruit-Ripeness-Prediction.git
- 
 Navigate to the project directory
 cd Fruit-Ripeness-Prediction
 
@@ -83,4 +78,6 @@ Feel free to fork the repository, make improvements, and submit a pull request. 
 License
 
 This project is licensed under the MIT License.
+
+=======
 
